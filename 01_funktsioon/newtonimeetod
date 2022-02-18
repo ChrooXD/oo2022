@@ -9,10 +9,10 @@ public class Functions {
         double prevX;
         double x;
         double täpsus;
-        System.out.print("Sisesta esimene valik: ");
+        System.out.print("Sisesta X: ");
         x = reader.nextDouble();
         prevX = x;
-        System.out.print("Sisesta komakoha täpsus: ");
+        System.out.print("Sisesta tuletis: ");
         täpsus = reader.nextDouble();
         while(Math.abs(function(x)) > täpsus){
             System.out.println("X: " + x + " f(x): " + function(x));
