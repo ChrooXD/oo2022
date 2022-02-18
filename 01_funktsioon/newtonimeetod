@@ -12,7 +12,7 @@ public class Functions {
         System.out.print("Sisesta X: ");
         x = reader.nextDouble();
         prevX = x;
-        System.out.print("Sisesta tuletis: ");
+        System.out.print("Sisesta täpsus/kaugus: ");
         täpsus = reader.nextDouble();
         while(Math.abs(function(x)) > täpsus){
             System.out.println("X: " + x + " f(x): " + function(x));
