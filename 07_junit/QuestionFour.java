@@ -1,6 +1,3 @@
-package Homework;
-
-
 public class QuestionFour extends PointCounter {
     public int fourthQuestion(String input) {
         switch (input) {

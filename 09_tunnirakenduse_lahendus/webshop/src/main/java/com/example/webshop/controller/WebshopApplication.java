@@ -1,4 +1,4 @@
-package com.example.webshop;
+package com.example.webshop.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
