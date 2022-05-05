@@ -1,7 +1,7 @@
-package ee.andrus.webshop.controller;
+package ee.mihkel.webshop.controller;
 
-import ee.andrus.webshop.model.Question;
-import ee.andrus.webshop.repository.QuestionRepository;
+import ee.mihkel.webshop.model.Question;
+import ee.mihkel.webshop.repository.QuestionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
