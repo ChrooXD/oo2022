@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+package main;
+
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 public class Hulknurk {
     public static void main(String[] args) {
         Klass klass = new Klass();

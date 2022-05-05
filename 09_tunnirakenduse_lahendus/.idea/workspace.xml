@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1611138c-65bd-493f-8075-af69e4fd7aba" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/09_tunnirakenduse_lahendus.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_13_2.xml" afterDir="false" />
@@ -28,15 +29,51 @@
       <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/WebshopApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/WebshopApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webshop/target/test-classes/ee/mihkel/webshop/WebshopApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/test-classes/ee/mihkel/webshop/WebshopApplicationTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webshop/webshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/webshop.iml" afterDir="false" />
+=======
+    <list default="true" id="549f8498-37c8-442a-8104-4e29cbec7930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" afterDir="false" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,17 +84,33 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="27VlWzIHs9Re1lOojTshPb9rJB6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="26sSY42DokPupSHtiPU319uxfnN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+=======
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/webshop" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -81,25 +134,58 @@
     <configuration name="WebshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="webshop" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ee.mihkel.webshop.WebshopApplication" />
+=======
+    <property name="last_directory_selection" value="$PROJECT_DIR$/webshop/src/main/java/com/example/webshop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../11_proovikontrolltoo2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WebshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ee.mihkel.webshop.WebshopApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="Application.WebshopApplication" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="1611138c-65bd-493f-8075-af69e4fd7aba" name="Changes" comment="" />
       <created>1649413173646</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649413173646</updated>
       <workItem from="1649413176012" duration="1592000" />
+=======
+      <changelist id="549f8498-37c8-442a-8104-4e29cbec7930" name="Changes" comment="" />
+      <created>1648210845358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648210845358</updated>
+      <workItem from="1648210846517" duration="350000" />
+      <workItem from="1649413189020" duration="1832000" />
+      <workItem from="1649415059942" duration="5952000" />
+      <workItem from="1650619932022" duration="3254000" />
+      <workItem from="1651224335124" duration="3838000" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     </task>
     <servers />
   </component>

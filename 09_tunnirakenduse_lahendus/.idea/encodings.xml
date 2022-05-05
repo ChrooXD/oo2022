@@ -2,5 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/webshop/src/main/java" charset="UTF-8" />
+<<<<<<< HEAD
+=======
+    <file url="file://$PROJECT_DIR$/webshop/src/main/resources" charset="UTF-8" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   </component>
 </project>

@@ -1,0 +1,8 @@
+Algne palk on: 3800.0€
+Keskmine palk on : 13395.73€
+ 
+Uus palk 1. kuul oli: 7296.0€ Koenfitsent on: 0.92, Palk pärast konfitsendi kasutamist on:1000.0€
+Uus palk 2. kuul oli: 11819.52€ Koenfitsent on: 0.62, Palk pärast konfitsendi kasutamist on:9286.29€
+Uus palk 3. kuul oli: 15601.77€ Koenfitsent on: 0.32, Palk pärast konfitsendi kasutamist on:13579.6€
+Uus palk 4. kuul oli: 17473.98€ Koenfitsent on: 0.12, Palk pärast konfitsendi kasutamist on:16511.36€
+Uus palk 5. kuul oli: 18347.68€ Koenfitsent on: 0.05, Palk pärast konfitsendi kasutamist on:17905.5€

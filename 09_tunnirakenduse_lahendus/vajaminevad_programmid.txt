@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 IntelliJ Ultimate
 https://www.jetbrains.com/idea/download/#section=windows
@@ -6,4 +7,14 @@ POSTMAN
 https://www.postman.com/
 
 PostgreSQL
+=======
+
+IntelliJ Ultimate
+https://www.jetbrains.com/idea/download/#section=windows
+
+POSTMAN
+https://www.postman.com/
+
+PostgreSQL
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads

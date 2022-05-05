@@ -3,11 +3,19 @@ package isikukood;
 public class IsikukoodLV implements IsikukoodObject {
     String isikukood;
     String[] kuud = {"Jaanuar", "Veebruar", "Märts", "Aprill", "Mai", "Juuni", "Juuli", "August", "September", "Oktoober", "November", "Detsember"};
+<<<<<<< HEAD
     // DDMMYY-XNNNZ
+=======
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 
     public IsikukoodLV(String isikukood) {
         this.isikukood = isikukood;
     }
+<<<<<<< HEAD
+=======
+    // DDMMYY - XNNNZ
+
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 
     @Override
     public boolean isMale() {

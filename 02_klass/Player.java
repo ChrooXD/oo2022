@@ -1,7 +1,13 @@
 public class Player {
+<<<<<<< HEAD
     // (muutuja aktiivne) parem klõps -> refactor -> rename
     int coordinateY;
     int coordinateX;
+=======
+    int coordinateY;
+    int coordinateX;
+
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     Direction direction;
 
     // Constructor
@@ -12,11 +18,19 @@ public class Player {
     }
 
     public int generateRandomCoordinate(int worldSize) {
+<<<<<<< HEAD
         return (int) (Math.random()*(worldSize-2))+1;
     }
 
     public void movePlayer(String input, int worldHeight, int worldWidth) {
         // kontrollib ühte muutujat mingite väärtuste vastu
+=======
+        return (int) (Math.random() * (worldSize - 2)) + 1;
+
+    }
+
+    public void movePlayer(String input, int worldHeight, int worldWidth) {
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
         switch (input) {
             case "a":
                 direction = Direction.LEFT;
@@ -38,12 +52,20 @@ public class Player {
                 }
                 break;
             case DOWN:
+<<<<<<< HEAD
                 if (coordinateY < worldHeight-2) {
+=======
+                if (coordinateY < worldHeight - 2) {
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
                     coordinateY++;
                 }
                 break;
             case RIGHT:
+<<<<<<< HEAD
                 if (coordinateX < worldWidth-2) {
+=======
+                if (coordinateY < worldWidth - 2) {
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
                     coordinateX++;
                 }
                 break;
@@ -54,6 +76,7 @@ public class Player {
                 break;
         }
 
+<<<<<<< HEAD
 //            if (direction == Direction.LEFT && true) {
 //                playerCoordinateX--;
 //            } else if (direction == Direction.DOWN || input.equals("mihkel")) {
@@ -72,3 +95,22 @@ public class Player {
 // Kasutaja - frontendis registreerumise järgselt
 // Ühe toote
 // Kategooria
+=======
+
+//        if (direction == Direction.LEFT) {
+//            playerCoordinateX--;
+//        } else if (direction == Direction.DOWN) {
+//            playerCoordinateY++;
+//        } else if (direction == Direction.RIGHT) {
+//            playerCoordinateX++;
+//        } else if (direction == Direction.UP) {
+//            playerCoordinateY--;
+//        }
+    }
+}
+
+//tellimuse - id, tooted, kasutaja, aja
+//kasutaja - frontendis registreerumise järgselt
+// ühe toote
+// kategooria
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
