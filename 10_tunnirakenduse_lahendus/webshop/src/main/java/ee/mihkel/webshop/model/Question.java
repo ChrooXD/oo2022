@@ -1,4 +1,4 @@
-package ee.andrus.webshop.model;
+package ee.mihkel.webshop.model;
 
 import lombok.Data;
 
