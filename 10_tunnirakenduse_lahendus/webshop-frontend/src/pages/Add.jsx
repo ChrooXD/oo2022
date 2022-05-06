@@ -1,11 +1,9 @@
 import { useRef } from "react";
 
+
 function Add() {
     const nameRef = useRef();
     const priceRef = useRef();
-    //  <input id="productName" type="text" />
-    // document.getElementById("productName")
-
     function addProduct() {
         fetch("http://localhost:8080/products", {
             method: "POST",
@@ -14,17 +12,17 @@ function Add() {
                 price: priceRef.current.value
             }),
             headers: {
-                "Content-Type": "application/json"
+                "Content-type": "application/json"
             }
         });
     }
 
-    return (<div>
+    return(<div>
         <label htmlFor="">NIMI</label>
         <input ref={nameRef} type="text" />
         <label htmlFor="">HIND</label>
         <input ref={priceRef} type="price" />
-        <button onClick={() => addProduct()}>Lisa</button>
+        <button onClick={() => addProduct()}>Add</button>
     </div>)
 }
 

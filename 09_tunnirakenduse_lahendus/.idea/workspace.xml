@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="549f8498-37c8-442a-8104-4e29cbec7930" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/repository/QuestionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54eadb45-730f-4cf0-a514-0773d5bcfce2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/54eadb45-730f-4cf0-a514-0773d5bcfce2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/components/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -102,6 +108,7 @@
       <workItem from="1649415059942" duration="5952000" />
       <workItem from="1650619932022" duration="3254000" />
       <workItem from="1651224335124" duration="3838000" />
+      <workItem from="1651829148910" duration="2801000" />
     </task>
     <servers />
   </component>
