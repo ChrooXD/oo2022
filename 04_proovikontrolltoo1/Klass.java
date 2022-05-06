@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 package main;
 
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,13 +17,26 @@ public class Klass {
         xCoords.add(x2);
         xCoords.add(x3);
     }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     public void setyCoords(int y1, int y2, int y3) {
         yCoords.add(y1);
         yCoords.add(y2);
         yCoords.add(y3);
     }
 
+<<<<<<< HEAD
+    @Override
+    public String toString() {
+        return "Klass{" +
+                "xCoords=" + xCoords +
+                ", yCoords=" + yCoords +
+                '}';
+=======
     public String toString() {
             return "Klass(" +
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     }
 }

@@ -1,10 +1,16 @@
 public class Player {
     int coordinateY;
     int coordinateX;
+<<<<<<< HEAD
+    Direction direction; // 3-ndast kodutööst
+    Item item;
+
+=======
     Direction direction;
     Item item;
 
     // Constructor
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     public Player(int worldHeight, int worldWidth) {
         this.coordinateY = generateRandomCoordinate(worldHeight);
         this.coordinateX = generateRandomCoordinate(worldWidth);
@@ -17,12 +23,19 @@ public class Player {
     }
 
     public int generateRandomCoordinate(int worldSize) {
+<<<<<<< HEAD
+        return (int) ((Math.random()*(worldSize-2))+1); // cast
+    }
+
+    public void movePlayer(String input, int worldHeight, int worldWidth) {
+=======
         return (int) (Math.random() * (worldSize - 2)) + 1; //cast
 
     }
 
     public void movePlayer(String input, int worldHeight, int worldWidth) {
         // kontrollib ühte muutujat mingite väärtuste vastu
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
         switch (input) {
             case "a":
                 direction = Direction.LEFT;
@@ -44,12 +57,20 @@ public class Player {
                 }
                 break;
             case DOWN:
+<<<<<<< HEAD
+                if (coordinateY < worldHeight-2) {
+=======
                 if (coordinateY < worldHeight - 2) {
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
                     coordinateY++;
                 }
                 break;
             case RIGHT:
+<<<<<<< HEAD
+                if (coordinateX < worldWidth-2) {
+=======
                 if (coordinateY < worldWidth - 2) {
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
                     coordinateX++;
                 }
                 break;
@@ -59,6 +80,20 @@ public class Player {
                 }
                 break;
         }
+<<<<<<< HEAD
+    }
+
+    @Override
+    public String toString() {
+        return "Player{" +
+                "coordinateY=" + coordinateY +
+                ", coordinateX=" + coordinateX +
+                ", direction=" + direction +
+                ", item=" + item +
+                '}';
+    }
+}
+=======
 
 
 //        if (direction == Direction.LEFT) {
@@ -77,3 +112,4 @@ public class Player {
 //kasutaja - frontendis registreerumise järgselt
 // ühe toote
 // kategooria
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9

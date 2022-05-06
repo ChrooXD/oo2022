@@ -4,22 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="1611138c-65bd-493f-8075-af69e4fd7aba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/09_tunnirakenduse_lahendus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_117.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_toolfactory_jvm_driver_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_toolfactory_narcissus_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_core_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_integration_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_common_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_ui_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_webmvc_core_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_swagger_ui_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_48.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/WebshopApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/WebshopApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/test-classes/ee/mihkel/webshop/WebshopApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/test-classes/ee/mihkel/webshop/WebshopApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/webshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/webshop.iml" afterDir="false" />
+=======
     <list default="true" id="549f8498-37c8-442a-8104-4e29cbec7930" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/QuestionController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/model/Question.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/repository/QuestionRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/54eadb45-730f-4cf0-a514-0773d5bcfce2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/54eadb45-730f-4cf0-a514-0773d5bcfce2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/components/navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Add.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../10_tunnirakenduse_lahendus/webshop-frontend/src/pages/Maintain.jsx" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/src/main/java/ee/mihkel/webshop/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/target/classes/ee/mihkel/webshop/controller/ProductController.class" afterDir="false" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
+>>>>>>> 3b3ff7fed977d11c48447d36658a2ea41b652da4
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,6 +84,7 @@
       </map>
     </option>
   </component>
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -57,24 +95,57 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="27VlWzIHs9Re1lOojTshPb9rJB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
   <component name="ProjectId" id="26sSY42DokPupSHtiPU319uxfnN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+=======
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webshop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebshopApplication">
+    <configuration name="WebshopApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ee.mihkel.webshop.WebshopApplication" />
+      <module name="09_tunnirakenduse_lahendus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ee.mihkel.webshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ee.mihkel.webshop.WebshopApplication" />
+=======
     <property name="last_directory_selection" value="$PROJECT_DIR$/webshop/src/main/java/com/example/webshop" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../11_proovikontrolltoo2" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -90,14 +161,31 @@
       <module name="webshop" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ee.mihkel.webshop.WebshopApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebshopApplication" />
+      </list>
+    </recent_temporary>
+=======
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="1611138c-65bd-493f-8075-af69e4fd7aba" name="Changes" comment="" />
+      <created>1649413173646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649413173646</updated>
+      <workItem from="1649413176012" duration="1592000" />
+=======
       <changelist id="549f8498-37c8-442a-8104-4e29cbec7930" name="Changes" comment="" />
       <created>1648210845358</created>
       <option name="number" value="Default" />
@@ -108,7 +196,11 @@
       <workItem from="1649415059942" duration="5952000" />
       <workItem from="1650619932022" duration="3254000" />
       <workItem from="1651224335124" duration="3838000" />
+<<<<<<< HEAD
       <workItem from="1651829148910" duration="2801000" />
+=======
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
+>>>>>>> 3b3ff7fed977d11c48447d36658a2ea41b652da4
     </task>
     <servers />
   </component>

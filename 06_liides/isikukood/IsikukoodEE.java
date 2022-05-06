@@ -1,11 +1,19 @@
 package isikukood;
+<<<<<<< HEAD
+// parem klõps -> "Generate" -> "constructor"
+=======
 // parem klõps -> generate -> constructor
 
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 
 public class IsikukoodEE implements IsikukoodObject {
     String isikukood;
     String[] kuud = {"Jaanuar", "Veebruar", "Märts", "Aprill", "Mai", "Juuni", "Juuli", "August", "September", "Oktoober", "November", "Detsember"};
+<<<<<<< HEAD
+    // 39402431256;
+=======
     // 39412431256
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
 
     public IsikukoodEE(String isikukood) {
         this.isikukood = isikukood;
@@ -15,7 +23,11 @@ public class IsikukoodEE implements IsikukoodObject {
     public boolean isMale() {
         return isikukood.startsWith("1") ||
                 isikukood.startsWith("3") ||
+<<<<<<< HEAD
+                    isikukood.startsWith("5");
+=======
                 isikukood.startsWith("5");
+>>>>>>> 21c8c0eab853892c96ce5230ca1b9779b06372d9
     }
 
     @Override
